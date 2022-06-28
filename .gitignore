@@ -1,0 +1,4 @@
+.terraform/*
+*.exe
+backend.json
+.terraform lock.hcl
